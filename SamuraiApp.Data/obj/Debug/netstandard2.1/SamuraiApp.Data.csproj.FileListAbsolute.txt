@@ -1,0 +1,12 @@
+C:\Users\KevinAnderson\orientation\SamuraiApp\SamuraiApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Data.deps.json
+C:\Users\KevinAnderson\orientation\SamuraiApp\SamuraiApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Data.dll
+C:\Users\KevinAnderson\orientation\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.csprojAssemblyReference.cache
+C:\Users\KevinAnderson\orientation\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.AssemblyInfoInputs.cache
+C:\Users\KevinAnderson\orientation\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.AssemblyInfo.cs
+C:\Users\KevinAnderson\orientation\SamuraiApp\SamuraiApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Data.pdb
+C:\Users\KevinAnderson\orientation\SamuraiApp\SamuraiApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Domain.dll
+C:\Users\KevinAnderson\orientation\SamuraiApp\SamuraiApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Domain.pdb
+C:\Users\KevinAnderson\orientation\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\KevinAnderson\orientation\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.csproj.CopyComplete
+C:\Users\KevinAnderson\orientation\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.dll
+C:\Users\KevinAnderson\orientation\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.pdb

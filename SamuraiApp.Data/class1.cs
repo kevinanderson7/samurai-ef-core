@@ -2,7 +2,8 @@
 
 namespace SamuraiApp.Data
 {
-    public class Class1
+    public class class1
     {
+
     }
 }
